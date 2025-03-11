@@ -1,0 +1,4 @@
+pandas
+faker
+duckdb
+load_dotenv

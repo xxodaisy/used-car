@@ -136,7 +136,8 @@ In the project above, determine views as follows:
     - Create a special view to calculate the total monthly revenue from all sales.
   
 ## ER Diagram
-![image](https://github.com/user-attachments/assets/c0cfdd72-0bc6-4df9-9650-858671e37795)
+![image](https://github.com/user-attachments/assets/16d36048-c85a-4f65-a75a-da4b3e25b5d2)
+
 
 ## Querying of create tables
 ```sql
